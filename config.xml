@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://passcard.hda.me" version="0.0.1" viewmodes="fullscreen">
-    <tizen:application id="cxYBEs1dfL.PassCard" package="cxYBEs1dfL" required_version="2.3"/>
+    <tizen:application id="cxYBEs1dfL.PassCard" package="cxYBEs1dfL" required_version="2.4"/>
     <author href="https://passcard.hda.me" email="mmail@sent.com">cryptofuture</author>
     <content src="passwordcard.html"/>
     <description>You can take your password card in any place you go. 
