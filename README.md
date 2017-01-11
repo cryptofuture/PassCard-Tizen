@@ -13,4 +13,4 @@ Web page with canvas image runs in WebView. So you basically can take assets fol
 jsbn and jsbn2 libraries used for basic BigInteger implementation and RSA encryption. LICENSES-assets file contains assets files licensing.
 
 ## It looks like
-![alt tag](https://raw.githubusercontent.com/cryptofuture/PassCard/master/passcard.png)
+![alt tag](https://raw.githubusercontent.com/cryptofuture/PassCard-Tizen/master/passcard.png)
