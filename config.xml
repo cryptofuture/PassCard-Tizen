@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="https://passcard.hda.me" version="0.0.1" viewmodes="fullscreen">
+    <tizen:application id="cxYBEs1dfL.PassCard" package="cxYBEs1dfL" required_version="2.3"/>
+    <author href="https://passcard.hda.me" email="mmail@sent.com">cryptofuture</author>
+    <content src="passwordcard.html"/>
+    <description>You can take your password card in any place you go. 
+Application don't need extra permissions or internet access. And it runs locally.
+The idea is simple: generate a password card that has your passwords printed in the card IN PLAIN TEXT. 
+Take card with you, and you have access to passwords for every account you have, and if an attacker get access to your card, you'll have time to change your password.</description>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <license href="https://raw.githubusercontent.com/cryptofuture/PassCard-Tizen/master/LICENSE">GNU GPL Version 3</license>
+    <name>PassCard</name>
+    <tizen:profile name="mobile"/>
+    <tizen:setting screen-orientation="landscape" context-menu="enable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
+</widget>
